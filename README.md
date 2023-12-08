@@ -1,4 +1,4 @@
-THis is App was created with React Js and using Open Library Search API
+This is App was created with React Js and using Open Library Search API
 @Author: Martin Mapoma
 
 You can run it by:
