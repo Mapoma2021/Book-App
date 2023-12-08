@@ -12,6 +12,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<img src="https://komarev.com/ghpvc/?Mapoma2021&style=flat-square&color=blue" alt=""/>
 
 This is App was created with React Js and using Open Library Search API
 @Author: Martin Mapoma
